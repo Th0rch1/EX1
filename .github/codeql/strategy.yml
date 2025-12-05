@@ -1,0 +1,3 @@
+strategy:
+  matrix:
+    languages: ['javascript' , 'java']
